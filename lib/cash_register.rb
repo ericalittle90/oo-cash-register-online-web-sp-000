@@ -15,6 +15,6 @@ class CashRegister
     @last_total = @total
     @total += price * quantity
     end
-  end
+
 
 end
