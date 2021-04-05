@@ -7,6 +7,6 @@ class CashRegister
     @discount ||= 20
   end
 
-  
+
 
 end
